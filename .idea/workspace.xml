@@ -4,28 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7281bff5-feb9-4839-8ae5-7d6afdaff19d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.devcontainer/devcontainer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ProjectStreamlit.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.streamlit/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/streamlit_updates.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/avatar_streamly.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/sidebar_streamly_avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/slogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/streamlit128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/streamly_readme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/stsidebarimg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/stuser.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="7281bff5-feb9-4839-8ae5-7d6afdaff19d" name="Changes" comment=" 🚀Update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,12 +97,25 @@
       <option name="presentableId" value="Default" />
       <updated>1720626516369</updated>
       <workItem from="1720626517916" duration="55000" />
-      <workItem from="1720626587593" duration="3688000" />
+      <workItem from="1720626587593" duration="4523000" />
     </task>
+    <task id="LOCAL-00001" summary=" 🚀Update">
+      <option name="closed" value="true" />
+      <created>1720631494281</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720631494281</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" Update" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ProjectStreamlit$main.coverage" NAME="streamlit Coverage Results" MODIFIED="1720631097907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
