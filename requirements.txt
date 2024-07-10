@@ -1,0 +1,6 @@
+streamlit
+streamlit-chat
+openai
+requests
+Image
+langchain
