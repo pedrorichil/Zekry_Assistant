@@ -1,7 +1,7 @@
 <h1><span style="color: crimson;">Zekry Assistant</span> - Streamlit Assistant <img src="imgs/slogo.png" alt="Streamlit logo" width="50" style="border-radius: 25px;"/></h1>
 
 <p align="center">
-  <img src="imgs/streamly_readme.png" alt="Zekry Assistant image" width="300" style="border-radius: 45px;"/>
+  <img src="imgs/zekry_readme.png" alt="Zekry Assistant image" width="300" style="border-radius: 45px;"/>
 </p>
 
 Zekry Assistant is an AI Assistant that was designed to supercharge the development experience with the Streamlit framework. It acts as an AI-infused sidekick, offering on-the-fly assistance 🚀, code snippets ✂️, and a deep dive into Streamlit's rich api code. 🧪
